@@ -41,3 +41,6 @@ Helping [client type] [achieve outcome] through [service] | [proof point]
 2. Identify: who do you help, what problem, what's your strongest proof point?
 3. Rebuild using Formula 1, 2, or 3.
 4. Read it back — would a stranger know what you do and why to trust you in 5 seconds?
+
+---
+Back to [01 - LinkedIn Glow-Up](./README.md) | Back to [main README](../README.md)

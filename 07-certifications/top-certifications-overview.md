@@ -43,3 +43,6 @@ ISACA is the leading body here — CISA, CISM, CRISC, CGEIT, and CDPSE cover aud
 2. Weigh cost and time against how directly it maps to the clients you want.
 3. List "in progress" certifications too — momentum is a positive signal, not something to hide.
 4. Always link to the issuer's official verification page where one exists.
+
+---
+Back to [07 - Certifications](./README.md) | Back to [main README](../README.md)

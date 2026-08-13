@@ -33,3 +33,6 @@ This does three things: stays warm, doesn't do unpaid work reflexively, and crea
 ## A simple boundary-setting phrase for recurring offenders
 
 "I want to keep delivering good work for you — for that to keep working, new requests need to go through a quick scoping step so we're both clear on time and cost. I'll send a short estimate for this one."
+
+---
+Back to [03 - Negotiation](./README.md) | Back to [main README](../README.md)

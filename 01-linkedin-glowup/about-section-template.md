@@ -38,3 +38,6 @@ Open to project-based and advisory work. Message me or see the Featured section 
 - [ ] Includes at least one real, verifiable number
 - [ ] Ends with a clear call to action
 - [ ] Free of unexplained jargon a non-technical client wouldn't understand
+
+---
+Back to [01 - LinkedIn Glow-Up](./README.md) | Back to [main README](../README.md)

@@ -43,3 +43,6 @@ what a scoped [service] would look like for you.
 - Don't pitch in the connection request — near-instant decline rate
 - Don't mass-message identical scripts — personalize at least the first line
 - Don't oversell certifications the client won't recognize — translate them into outcomes
+
+---
+Back to [02 - Direct Client Outreach](./README.md) | Back to [main README](../README.md)

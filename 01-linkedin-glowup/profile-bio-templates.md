@@ -28,3 +28,6 @@ I help [target client type, e.g. "SMEs and e-commerce brands"] [solve specific p
 | Include one measurable proof point | List every tool you've ever touched |
 | Match your bio tone across platforms | Copy-paste a CV summary |
 | End with a clear next step | End with no call to action |
+
+---
+Back to [01 - LinkedIn Glow-Up](./README.md) | Back to [main README](../README.md)

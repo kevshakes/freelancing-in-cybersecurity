@@ -25,3 +25,6 @@ Write short explainer posts (LinkedIn, Medium, Hashnode, DEV.to) breaking down a
 ## What this replaces (and what it doesn't)
 
 This builds credibility and visibility — it is not a substitute for the specific permissions and legal safeguards required for real client work once you start taking paid engagements. Review [contract basics](../04-proposals-pricing/contract-basics.md) before your first paid project.
+
+---
+Back to [06 - Portfolio Building](./README.md) | Back to [main README](../README.md)

@@ -35,3 +35,6 @@ Distinguish between a reasonable ask and scope creep:
 ## General principle
 
 Every objection response should do two things: acknowledge the concern genuinely, and offer a concrete next step that protects your time and rate. Avoid over-explaining or apologizing for having a process.
+
+---
+Back to [03 - Negotiation](./README.md) | Back to [main README](../README.md)

@@ -11,4 +11,6 @@ Start here. This is the primary focus of the live session.
 | [positioning-guide.md](./positioning-guide.md) | Before/after framework for positioning your services |
 | [profile-bio-templates.md](./profile-bio-templates.md) | Reusable bio templates for LinkedIn and platform profiles |
 
+Suggested order: positioning-guide.md -> linkedin-headline-formulas.md -> about-section-template.md -> featured-section-and-banner.md -> profile-bio-templates.md -> content-posting-plan.md
+
 Back to [main README](../README.md).

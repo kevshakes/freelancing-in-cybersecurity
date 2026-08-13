@@ -26,3 +26,6 @@ AI is both the threat you're selling protection against and a tool that can spee
 - Never let AI tools touch client data without checking the tool's data handling policy first
 - Disclose AI-assisted work where relevant, especially for reports or audits — trust is the product
 - Don't rely on AI for security judgment calls (severity ratings, false positive/negative determination) — that's your expertise, and it's what you're being paid for
+
+---
+Back to [05 - AI-Era Cheatsheet](./README.md) | Back to [main README](../README.md)

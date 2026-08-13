@@ -32,3 +32,6 @@ Visibility compounds. A glammed-up profile with zero activity still looks inacti
 ## Tracking (simple)
 
 Keep a running note of: post date, topic, engagement (likes/comments/shares), and any DMs or leads it generated. Review monthly — double down on what resonates.
+
+---
+Back to [01 - LinkedIn Glow-Up](./README.md) | Back to [main README](../README.md)

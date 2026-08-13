@@ -41,3 +41,6 @@ and shared with permission. Never publish real client names, IPs, or data.
 - A dedicated GitHub repo per project, or one `writeups/` folder in a single portfolio repo
 - Pin your best 2–3 write-ups on your GitHub profile
 - Link directly to specific write-ups (not just your GitHub homepage) in proposals and platform portfolios
+
+---
+Back to [06 - Portfolio Building](./README.md) | Back to [main README](../README.md)

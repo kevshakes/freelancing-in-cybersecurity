@@ -33,3 +33,6 @@ Use this before you apply to a single job. A half-finished profile gets ignored 
 - Use the same headline and bio language across all platforms — consistency builds recognition
 - Update your profile every time you complete a project or earn a certification
 - Respond to messages within 24 hours during your first 90 days — response time affects ranking on most platforms
+
+---
+Back to [08 - Freelance Platforms](./README.md) | Back to [main README](../README.md)

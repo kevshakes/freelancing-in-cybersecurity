@@ -40,3 +40,6 @@ Before a client messages you, they Google you. What should they find?
 - Compliance readiness for AI tool adoption (data privacy, GDPR-adjacent)
 - SOC-as-a-service for startups under 50 employees
 - Incident response retainers for e-commerce/SMB
+
+---
+Back to [01 - LinkedIn Glow-Up](./README.md) | Back to [main README](../README.md)

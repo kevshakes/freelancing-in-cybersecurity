@@ -37,3 +37,6 @@ There's no single "right" rate — but there is a wrong one if it doesn't match 
 - Under-pricing to "win the client" — it signals inexperience and attracts scope creep
 - No stated rate ("negotiable") — always state a number, even if you'd flex on it privately
 - Pricing identically across very different scopes — a one-page compliance checklist and a full audit are not the same service
+
+---
+Back to [04 - Proposals & Pricing](./README.md) | Back to [main README](../README.md)

@@ -37,3 +37,6 @@ If you do want to move on price, trade for something of equal value instead of g
 - A client who negotiates hard before you've even scoped the work — often signals scope creep later
 - "We'll pay more on the next project" — treat this as goodwill, not a commitment
 - Refusal to put agreed terms in writing after a negotiation — always confirm final terms via email or contract
+
+---
+Back to [03 - Negotiation](./README.md) | Back to [main README](../README.md)

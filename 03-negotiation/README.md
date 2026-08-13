@@ -8,4 +8,6 @@ Holding your rate and your boundaries once you are in conversation with a client
 | [objection-handling-scripts.md](./objection-handling-scripts.md) | Scripts for common direct-client objections |
 | [scope-creep-and-boundaries.md](./scope-creep-and-boundaries.md) | Recognizing and responding to scope creep |
 
+Suggested order: rate-negotiation-guide.md -> objection-handling-scripts.md -> scope-creep-and-boundaries.md
+
 Back to [main README](../README.md).

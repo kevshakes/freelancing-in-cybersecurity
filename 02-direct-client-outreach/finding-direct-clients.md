@@ -34,3 +34,6 @@ Before reaching out, quickly check:
 - Is there a real, specific reason to reach out now (not just "they exist")?
 
 Skipping this step is the biggest time-waster in direct outreach — a personalized message to the wrong lead still gets ignored.
+
+---
+Back to [02 - Direct Client Outreach](./README.md) | Back to [main README](../README.md)

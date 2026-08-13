@@ -47,3 +47,6 @@ Want me to send a short outline?
 - [ ] Is the next step concrete (a call, a scoped deliverable — not "let's chat")?
 - [ ] Is the price stated, not vague ("negotiable" reads as inexperienced)?
 - [ ] Did you proofread for their company/project name (not a leftover placeholder)?
+
+---
+Back to [04 - Proposals & Pricing](./README.md) | Back to [main README](../README.md)

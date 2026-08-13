@@ -30,3 +30,6 @@ A quick-reference for framing your services around what's actually happening rig
 ## Where to keep this current
 
 Threat landscapes shift fast. Revisit this file quarterly and update it from primary sources — vendor threat reports (e.g. major cloud/security vendors), national CERT advisories, and reputable industry research — rather than relying on secondhand summaries.
+
+---
+Back to [05 - AI-Era Cheatsheet](./README.md) | Back to [main README](../README.md)

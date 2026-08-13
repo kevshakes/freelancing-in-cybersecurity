@@ -62,3 +62,6 @@ Would it help to see a quick outline of how I'd approach this for you?
 - No attachments in the first message — link to a portfolio instead
 - Follow up once, 4–5 days later, with new information (not just "just following up")
 - Never claim urgency or use fear-based framing you can't back up — it reads as a scam, ironically
+
+---
+Back to [02 - Direct Client Outreach](./README.md) | Back to [main README](../README.md)

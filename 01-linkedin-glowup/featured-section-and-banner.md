@@ -26,3 +26,6 @@ LinkedIn's Featured section is prime portfolio real estate — most freelancers 
 ## Custom URL
 
 - [ ] Update your LinkedIn URL to `linkedin.com/in/yourname` (not the default string of numbers) — cleaner to share in proposals and email signatures
+
+---
+Back to [01 - LinkedIn Glow-Up](./README.md) | Back to [main README](../README.md)

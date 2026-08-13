@@ -6,4 +6,6 @@ Optional and secondary. Use this if and when you also want to list on a platform
 |---|---|
 | [upwork-checklist.md](./upwork-checklist.md) | Setup checklist for Upwork, Fiverr, and Freelancer.com/Toptal |
 
+Suggested order: upwork-checklist.md
+
 Back to [main README](../README.md).

@@ -18,7 +18,11 @@ Work through it in order if you're starting from zero, or jump straight to what 
 | [`06-portfolio-building/`](./06-portfolio-building) | Writeup templates, CTF/cert showcase guide, building proof without paid clients |
 | [`07-certifications/`](./07-certifications) | Top cybersecurity certifications overview + full ISACA guide (CISA, CISM, CRISC, CGEIT, CDPSE, and the new CCOA) |
 | [`08-freelance-platforms/`](./08-freelance-platforms) | Optional/secondary — Upwork setup checklist, for if/when you also want to list on platforms |
+| [`09-getting-paid/`](./09-getting-paid) | Invoicing basics and cross-border payment methods |
+| [`10-staying-safe/`](./10-staying-safe) | Recognizing and avoiding scams that target freelancers directly |
+| [`GLOSSARY.md`](./GLOSSARY.md) | Plain-language definitions for acronyms and terms used across this repo |
 | [`resources.md`](./resources.md) | Curated links — communities, certifications, learning resources |
+| [`LICENSE.md`](./LICENSE.md) | Reuse terms (CC BY 4.0) |
 
 ## Quick start (tonight's session)
 
@@ -29,6 +33,7 @@ Work through it in order if you're starting from zero, or jump straight to what 
 5. Send one message today using a script from the same folder.
 6. Before your next client call, skim `03-negotiation/rate-negotiation-guide.md` so you're ready to hold your rate.
 7. Pick one certification to pursue from `07-certifications/` — ISACA's new CCOA is a strong fit if you're leaning toward SOC/incident response work.
+8. Before your first paid engagement, skim `09-getting-paid/` (how you'll actually collect payment) and `10-staying-safe/` (how to spot a scam before it costs you).
 
 ## About the session
 
