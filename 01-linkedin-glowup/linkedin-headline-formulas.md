@@ -9,6 +9,8 @@ I help [client type] [solve specific problem] | [credential/proof point]
 ```
 **Example:** "I help SMEs stop AI-driven phishing before it reaches an inbox | AWS Security Specialty · 12 audits completed"
 
+**Applied to a real profile ([linkedin.com/in/kevintuei](https://linkedin.com/in/kevintuei)):** "I help organizations secure their cloud migration and close AI-era security gaps | AWS Security Specialty & HCIP Security Certified | Trained 1,500+ learners"
+
 ## Formula 2 — Role + Niche + Credibility marker
 
 ```
@@ -16,12 +18,16 @@ I help [client type] [solve specific problem] | [credential/proof point]
 ```
 **Example:** "Security Awareness & Phishing Simulation Specialist | AI-Era Threats | ALX Cybersecurity Cohort 1"
 
+**Applied to a real profile:** "Senior Cloud & Cybersecurity Consultant | AWS, Microsoft, Huawei, Cisco Certified | Coordinator, Open and Distance Learning, Tharaka University"
+
 ## Formula 3 — Outcome-led (best for freelancers seeking direct clients)
 
 ```
 Helping [client type] [achieve outcome] through [service] | [proof point]
 ```
 **Example:** "Helping startups pass their first security audit without a full-time hire | GRC & Compliance Freelancer"
+
+**Applied to a real profile:** "Helping organizations strengthen cloud security posture and pass compliance reviews | 8+ years, AWS Well-Architected Framework"
 
 ## What to avoid
 

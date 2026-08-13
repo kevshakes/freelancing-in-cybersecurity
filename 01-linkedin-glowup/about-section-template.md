@@ -19,17 +19,17 @@ your values, or what clients can expect working with you.]
 [Call to action — how to reach you, what to message you about.]
 ```
 
-## Filled example
+## Filled example (based on a real profile — linkedin.com/in/kevintuei)
 
-"Late one night, an AI-cloned voice nearly moved six figures out of a client's account. That's the world freelancers in this field now defend against.
+"Cloud migrations and AI adoption move fast. Security is usually the part left to catch up.
 
-I help small and mid-sized businesses close the gap between traditional security and AI-powered threats — phishing simulations, security awareness training, and compliance readiness reviews built for how attacks actually work today.
+I help organizations close that gap — cloud security architecture, security posture reviews, and compliance readiness, grounded in the AWS Well-Architected Framework and 8+ years of hands-on delivery.
 
-3 years in cybersecurity consulting. AWS Security Specialty certified. 12+ completed audits, zero missed findings on client re-tests. ALX Cybersecurity Cohort 1 alumni.
+Senior Cloud & Cybersecurity Consultant. AWS Security Specialty and HCIP Security certified, with additional certifications from Microsoft, Huawei, Cisco, and Atlassian. Trained 1,500+ learners in cloud and cybersecurity. ALX Cybersecurity Cohort 1 alumni.
 
-I work in plain language, deliver clear reports (not jargon), and always leave clients with a prioritized action list — not just a list of problems.
+I work in plain language, deliver clear reports, and leave every engagement with a prioritized action list, not just a list of problems.
 
-Open to project-based and retainer work. Message me or check the Featured section below for samples."
+Open to project-based and advisory work. Message me or see the Featured section below for samples."
 
 ## Checklist
 
